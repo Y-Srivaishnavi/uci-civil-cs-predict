@@ -10,7 +10,7 @@ It saves experimentation time for civil engineers by estimating its target based
 The project is built entirely in Python. It uses the Pandas and NumPy modules for data manipulation, Matplotlib and Seaborn for visualization, and scikit-learn for preprocessing and model training. 
 
 ## Challenges we ran into
-Our biggest challenge was to overcome overfitting as well as underfitting by finding the right train-test split to train the model. 
+We had to keep all the features. Our biggest challenge was to find the right train-test split to train the model. 
 
 ## Accomplishments that we're proud of
 The model achieves a best R2 of 92, which is great for a small dataset with no feature reduction. 
